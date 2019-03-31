@@ -1,5 +1,7 @@
 # Form trong Django
 
+Được làm dựa trên [Hướng dẫn viết ứng dụng đầu tiên bằng Django](https://docs.djangoproject.com/en/2.1/intro/tutorial04/)
+
 Dự án này dùng [pipenv](https://github.com/pypa/pipenv) để quản lý [venv](https://docs.python.org/3/library/venv.html). 
 
 Để dùng, hãy theo những bước sau: 
